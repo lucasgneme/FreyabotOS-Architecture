@@ -1,6 +1,6 @@
 # 🤖 FREYABOT OS — System Technical Documentation
 
-> **Version**: 8.0.0 | **Author**: Lucas Gneme | **License**: Proprietary  
+> **Version**: 8.0.0 | **Author**: Lucas Germán Neme | **License**: Proprietary  
 > **Main Stack**: Rust (Backend) + Next.js/React (GUI) + Electron (Native Shell)
 
 ---
